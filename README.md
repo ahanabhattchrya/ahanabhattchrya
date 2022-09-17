@@ -1,9 +1,11 @@
-## Hi there 👋
+## Hi there, Ahana here! 👋
 
 ### A little ✨About Me✨
 - 🌱 University @ Buffalo 2024
-     Major: <b>Computer Science</b>
-     <br>
+     Major: Computer Science
+
+
+
 [![Ahana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahanabhattchrya&show_icons=true&theme=dracula)](https://github.com/ahanabhattchrya/github-readme-stats)
 
 <!--
