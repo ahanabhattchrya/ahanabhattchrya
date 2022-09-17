@@ -5,7 +5,7 @@
 - 🌱 university @ buffalo 2024
      major: computer science
      Minor: mathematics
-- 🔭 interested in <b><style = color: 'pink'>software engineering</style></b> & the intersection of <b>code and societal ethics</b>!
+- 🔭 interested in <b><software engineerin</b> & the intersection of <b>code and societal ethics</b>!
 
 
 
