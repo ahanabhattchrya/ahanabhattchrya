@@ -3,8 +3,8 @@
 ### a little ✨about me✨
 - 💃🏻 pronouns: she/her/hers
 - 🌱 university @ buffalo 2024 <br>
-     -> major: computer science
-     -> Minor: mathematics
+     major: computer science <br>
+     minor: mathematics
 - 🔭 interested in <b>software engineerin</b> & the intersection of <b>code and societal ethics</b>!
 
 
