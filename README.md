@@ -1,11 +1,11 @@
-## Hi there, Ahana here! 👋
+## hey there, ahana here! 👋
 
-### A little ✨About Me✨
-- 💃🏻 Pronouns: She/Her/Hers
-- 🌱 University @ Buffalo 2024
-     Major: Computer Science
-     Minor: Mathematics
-- 🔭 Interested in Software Engineering & the intersection of Code and Societal Ethics!
+### a little ✨about me✨
+- 💃🏻 pronouns: she/her/hers
+- 🌱 university @ buffalo 2024
+     major: computer science
+     Minor: mathematics
+- 🔭 interested in <b>software engineering</b> & the intersection of <b>code and societal ethics</b>!
 
 
 
