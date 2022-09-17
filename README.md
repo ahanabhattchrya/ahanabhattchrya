@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ahana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ahanabhattchrya/github-readme-stats)
+[![Ahana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahanabhattchrya)](https://github.com/ahanabhattchrya/github-readme-stats)
 
 <!--
 **ahanabhattchrya/ahanabhattchrya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
