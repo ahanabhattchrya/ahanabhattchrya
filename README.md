@@ -7,7 +7,7 @@
 ### What am i up to?
 
 - 🎒 University at Buffalo Computer Science, Math (c/o 2024)
-- 🔭 Research Assistant at [CS4G](https://c4sg.cse.buffalo.edu/) group
+- 🔭 Research Assistant at the UB [CS4G](https://c4sg.cse.buffalo.edu/) group
 - 🧩 TA for CSE 220 (Systems Programming) and CSE 331 (Algorithms and Complexity)
 
 ### Reach me @
