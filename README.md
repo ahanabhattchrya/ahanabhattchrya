@@ -4,10 +4,11 @@
 
 
 
-### a little ✨about me✨
-- 💃🏻 pronouns: she/her/hers
-- 🌱 cs @ university at buffalo [2024]
-- 🔭 interested in <b>software engineering</b> & the intersection of <b>code and societal ethics</b>!
+### What am i up to?
+
+🎒 University at Buffalo Computer Science, Math (c/o 2024)
+🔭 Research Assistant at [CS4G](https://c4sg.cse.buffalo.edu/) group
+🧩 TA for CSE 220 (Systems Programming) and CSE 331 (Algorithms and Complexity)
 
 ### Reach me @
 
