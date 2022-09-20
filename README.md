@@ -1,6 +1,6 @@
 ## Hey there, I'm Ahana! 👋
 
-(she/her/hers)
+<b><span style="color:blue">(she/her/hers)</span><b>
 
 
 
