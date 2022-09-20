@@ -11,8 +11,7 @@
 
 ### Reach me @
 
-> ahanabha@buffalo.edu
-
+> ahanabha at buffalo.edu 
 > Ahana Bhattacharya on LinkedIn
 
 
