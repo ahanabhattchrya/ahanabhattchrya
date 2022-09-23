@@ -8,6 +8,7 @@
 
 - 🎒 University at Buffalo Computer Science & Math (c/o 2024)
 - 🔭 Research Assistant at the UB [CS4G](https://c4sg.cse.buffalo.edu/) group
+- 👩🏽‍💻 Google [CSRMP 2022](https://research.google/outreach/csrmp/recipients/?category=2022) Mentee 
 - 🧩 TA for CSE 220 (Systems Programming) and CSE 331 (Algorithms and Complexity)
 - 📍 Buffalo, NY
 
